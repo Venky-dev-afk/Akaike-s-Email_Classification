@@ -1,3 +1,4 @@
 Scripts/ruff.exe filter=lfs diff=lfs merge=lfs -text
 dataset/combined_emails_with_natural_pii.csv filter=lfs diff=lfs merge=lfs -text
-
+Scripts/*.exe filter=lfs diff=lfs merge=lfs -text
+dataset/*.csv filter=lfs diff=lfs merge=lfs -text
