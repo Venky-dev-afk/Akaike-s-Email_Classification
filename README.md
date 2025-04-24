@@ -8,6 +8,12 @@ This project is an end-to-end solution that:
 
 ---
 
+## Hugging face deployed link :
+https://huggingface.co/spaces/Venky-dev-afk/Email-Classifier
+
+steps to use:
+just input the content in the input field and click classify.
+
 ## Project Structure
 
 email-classification-api/ │ 
@@ -55,3 +61,5 @@ masked_email: The input with PII replaced.
 entities: List of detected PII with classification and position.
 
 category: Predicted email type.
+
+
