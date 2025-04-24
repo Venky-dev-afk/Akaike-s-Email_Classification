@@ -14,6 +14,12 @@ https://huggingface.co/spaces/Venky-dev-afk/Email-Classifier
 steps to use:
 just input the content in the input field and click classify.
 
+## Note :
+This repository contains both flask implementation and the huggingface spaces implementation.
+The file named app.py is flask implementation and the gradio_app.py is the huggingface spaces implementation.
+The changes to the huggingface spaces is made within the huggingface spaces repository and the gradio_app.py file iis not fully updated.
+The updation and the changes is done within the Huggingface Space repository.
+
 ## Project Structure
 
 email-classification-api/ │ 
